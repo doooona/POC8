@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">在平板上安裝Whatsapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="prepare">準備事項:\n1.已在手機上安裝Whatsapp \n2.安裝備份與還原app在手機與平板上 ex.(Titanium Backup app)</string>
+    <string name="desc">1.使用備份軟體備份手機上的Whatsapp資料 \n\n2.複製Whatsapp的檔案到您的平板上的資料夾 (com.whatsapp)ex. /sdcard/TitaniumBackup/ 的資料夾\n\n3. 打開還原軟體選擇Whatsapp進行還原 \n\n4.OK,安裝成功</string>
+    <string name="btn_what">Whatsapp APK</string>
+    <string name="btn_backup">Backup APP</string>   
+
+</resources>
